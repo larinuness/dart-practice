@@ -13,14 +13,14 @@ usandoWhile() {
 
   bool condicao = true;
   while(condicao){
-    print("=== Escreva algo ===");
+    print('=== Escreva algo ===');
     var text = stdin.readLineSync();
-    if (text == "Sair") {
+    if (text == 'Sair') {
       condicao = false;
-      print("=== Fim do programa");
+      print('=== Fim do programa');
       
     } else {
-      print("=== Você digitou: $text");
+      print('=== Você digitou: $text');
     }
   }
 

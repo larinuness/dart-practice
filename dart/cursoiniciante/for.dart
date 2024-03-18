@@ -7,7 +7,6 @@ main() {
 
    }
 
-   String nome;
 
   
 

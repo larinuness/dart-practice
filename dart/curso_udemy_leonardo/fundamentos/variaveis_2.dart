@@ -1,3 +1,5 @@
+// ignore_for_file: unnecessary_type_check
+
 main() {
   var n1 = 2;
   var n2 = 4.56;

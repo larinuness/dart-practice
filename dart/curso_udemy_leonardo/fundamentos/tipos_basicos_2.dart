@@ -1,3 +1,5 @@
+// ignore_for_file: unnecessary_type_check
+
 /* 
   - List
   - Set

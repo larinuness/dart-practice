@@ -10,7 +10,7 @@ tipagem() {
   // ignore: unused_local_variable
   int n2 = 2;
   // ignore: unused_local_variable
-  String text = "Larissa";
+  String text = 'Larissa';
   // ignore: unused_local_variable
   bool isTrue = false;
 
