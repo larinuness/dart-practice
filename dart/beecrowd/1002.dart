@@ -1,6 +1,8 @@
 import 'dart:io';
 import 'dart:math';
 
+
+
 void main() {
   String? n1 = stdin.readLineSync();
 
@@ -13,3 +15,5 @@ void main() {
   print("A=$newResult");
   
 }
+
+

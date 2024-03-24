@@ -7,7 +7,7 @@ void main() {
     int num1 = int.parse(numero);
     print("O fatorial de $numero é ${fatorial(num1)}");
   } else {
-    print("Vocêp precisa digitar algo");
+    print("Você precisa digitar algo");
   }
 }
 
