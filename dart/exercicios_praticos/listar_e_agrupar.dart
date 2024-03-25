@@ -13,8 +13,8 @@ class Notification {
 void main() {
   // Lista de notificações do backend.
   List<Map<String, dynamic>> notificationsFromBackend = [
-    {"description": "notification1", "created_at": "11/12/2023 00:00:00"},
-    {"description": "notification2", "created_at": "11/12/2023 00:00:00"},
+    {"description": "notification1", "created_at": "23/03/2024 00:00:00"},
+    {"description": "notification2", "created_at": "23/02/2024 00:00:00"},
     {"description": "notification3", "created_at": "07/12/2023 00:00:00"},
     {"description": "notification4", "created_at": "28/11/2023 00:00:00"},
     {"description": "notification5", "created_at": "11/09/2023 00:00:00"},
